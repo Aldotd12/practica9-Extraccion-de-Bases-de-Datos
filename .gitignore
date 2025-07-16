@@ -1,4 +1,5 @@
 # Ignorar archivos CSV específicos
+
 IMDb_movies.csv
 IMDb_ratings.csv
 netflix_movies_detailed_up_to_2025.csv
@@ -8,5 +9,6 @@ cosine_sim_full_2025.dat
 netflix_datasets_completo_limpio.csv
 netflix_datasets_limpio.csv
 netflix_imdb_ratings.csv
+
 # Ignorar entorno virtual de Python
 venv/
